@@ -1,0 +1,18 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityDevopsProject2"
+	},
+	{
+		"ParameterKey": "KeyPair",
+		"ParameterValue": "devops"
+	},
+	{
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-0691195f3376f4178"
+    },
+	{
+        "ParameterKey": "Instance",
+        "ParameterValue": "t3.large"
+    }
+]
